@@ -1,0 +1,1 @@
+# ts-inheritance-interfaces-demo
